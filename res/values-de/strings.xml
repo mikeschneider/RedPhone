@@ -44,7 +44,7 @@
   <string name="CreateAccountActivity_the_number_you_specified_s_is_invalid">Die angegebene Nummer (%s) ist ungültig.</string>
   <string name="CreateAccountActivity_invalid_number">Ungültige Nummer</string>
   <string name="CreateAccountActivity_we_will_now_verify_that_the_following_number_is_associated">Wir werden nun prüfen, ob die folgende Zahl mit diesem Gerät verbunden ist:⏎\n⏎\n%s⏎\n⏎\nIst diese Zahl korrekt, oder möchten Sie sie bearbeiten?</string>
-  <string name="CreateAccountActivity_continue">Fohrtfahren</string>
+  <string name="CreateAccountActivity_continue">Fortfahren</string>
   <string name="CreateAccountActivity_edit">Bearbeiten</string>
   <string name="NotificationBarManager_redphone_call_in_progress">RedPhone-Gespräch in Vorbereitung</string>
   <string name="NotificationBarManager_missed_redphone_call_from_s">Verpasster RedPhone-Anruf von %s</string>
